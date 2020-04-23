@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../licence-management/src/main/java/com/porsche/licensemanagement/service/sqs/SqsReceiverService.java [license-management]'" />
-    <option name="defaultScopeName" value="File '.../licence-management/src/main/java/com/porsche/licensemanagement/service/sqs/SqsReceiverService.java [license-management]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../licence-management/src/main/java/com/porsche/licensemanagement/service/sqs/SqsReceiverService.java [license-management]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
